@@ -8,3 +8,4 @@ Testing pull request functionality
 - change 6
 - change 7
 - change 8
+- change 9
