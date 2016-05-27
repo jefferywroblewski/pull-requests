@@ -18,3 +18,8 @@ Testing pull request functionality
 - change 1
 - change 2
 - change 3
+
+# squash test 2 Changes
+- change 1
+- change 2
+- change 3
